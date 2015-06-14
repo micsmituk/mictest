@@ -1,2 +1,2 @@
 # mictest
-Quick test repository
+Quick test repository - first attempt
